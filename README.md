@@ -19,7 +19,7 @@ Steam Portable Launcher adalah solusi lengkap untuk menjalankan Steam secara por
 - Tambahkan, edit, atau hapus game sesuai kebutuhan.
 - Atur parameter global Steam jika diperlukan.
 - Klik **Apply** untuk menyimpan perubahan.
-- Untuk membuat launcher per game, pilih game lalu klik **Create Bat Launcher**. File BAT akan otomatis dibuat di folder `_Launcher/<NamaGame>/`.
+- Untuk membuat launcher per game, pilih game lalu klik **Create Launcher**. File BAT akan otomatis dibuat di folder `_Launcher/<NamaGame>/`.
 - Untuk ekspor registry (mode server), klik **Launch Steam Server** lalu keluar dari Steam setelah selesai. (Gunakan untuk download dan update game.)
 
 ### 3. Menjalankan Game
